@@ -1,0 +1,34 @@
+header {
+  text-align: center;
+  font-size: 3rem;
+  padding-top: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: aqua;
+}
+
+th {
+  padding-bottom: 10px;
+  padding-left: 50px;
+}
+
+td {
+  padding-left: 10px;
+}
+
+input {
+  width: 500px;
+}
+
+.btn-success {
+  position: relative;
+  margin: 5px;
+  left: 240px;
+}
+
+.rolodex-header {
+  padding-top: 100px;
+  padding-right: 100px;
+}
